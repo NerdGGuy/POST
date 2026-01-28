@@ -1,0 +1,13 @@
+{
+  "updated": "1970-01-01T00:00:00Z",
+  "variants": {
+    "release": {"status": "unknown", "version": "N/A", "timestamp": "1970-01-01T00:00:00Z"},
+    "debug": {"status": "unknown", "version": "N/A", "timestamp": "1970-01-01T00:00:00Z"},
+    "asan": {"status": "unknown", "version": "N/A", "timestamp": "1970-01-01T00:00:00Z"},
+    "ubsan": {"status": "unknown", "version": "N/A", "timestamp": "1970-01-01T00:00:00Z"},
+    "tsan": {"status": "unknown", "version": "N/A", "timestamp": "1970-01-01T00:00:00Z"},
+    "msan": {"status": "unknown", "version": "N/A", "timestamp": "1970-01-01T00:00:00Z"},
+    "coverage": {"status": "unknown", "version": "N/A", "timestamp": "1970-01-01T00:00:00Z"},
+    "fuzz": {"status": "unknown", "version": "N/A", "timestamp": "1970-01-01T00:00:00Z"}
+  }
+}

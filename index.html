@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>buildbuild - Build Status Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>buildbuild</h1>
+        <p class="subtitle">Build Status Dashboard</p>
+    </header>
+
+    <main>
+        <section id="current-status">
+            <h2>Current Status</h2>
+            <p class="last-updated">Last updated: <span id="last-updated">Loading...</span></p>
+            <div id="variant-grid" class="variant-grid">
+                <!-- Populated by JavaScript -->
+            </div>
+        </section>
+
+        <section id="history">
+            <h2>Build History</h2>
+            <div id="history-chart" class="history-chart">
+                <!-- Populated by JavaScript -->
+            </div>
+            <table id="history-table" class="history-table">
+                <thead>
+                    <tr>
+                        <th>Time</th>
+                        <th>release</th>
+                        <th>debug</th>
+                        <th>asan</th>
+                        <th>ubsan</th>
+                        <th>tsan</th>
+                        <th>coverage</th>
+                    </tr>
+                </thead>
+                <tbody id="history-body">
+                    <!-- Populated by JavaScript -->
+                </tbody>
+            </table>
+        </section>
+
+        <section id="badges">
+            <h2>Badges</h2>
+            <p>Embed these badges in your README:</p>
+            <div id="badge-list" class="badge-list">
+                <!-- Populated by JavaScript -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>
+            Powered by <a href="https://github.com/NerdGGuy/buildbuild">buildbuild</a>
+            &middot;
+            <a href="data/current.json">API</a>
+        </p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
