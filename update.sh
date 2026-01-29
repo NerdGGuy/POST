@@ -76,7 +76,7 @@ if [[ -z "$CACHE_OWNER" ]] || [[ -z "$CACHE_REPO" ]]; then
 fi
 
 CACHE_BASE="https://raw.githubusercontent.com/${CACHE_OWNER}/${CACHE_REPO}/main"
-VARIANTS=(release debug asan ubsan tsan msan coverage fuzz test-build test-run)
+VARIANTS=(release debug asan ubsan tsan msan coverage fuzz)
 
 echo "Fetching status from: ${CACHE_OWNER}/${CACHE_REPO}"
 echo "Output: ${OUTPUT_DIR}"
