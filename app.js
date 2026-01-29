@@ -8,7 +8,7 @@ const CONFIG = {
     statusRepo: 'POST',
 
     // Variants to display
-    variants: ['release', 'debug', 'asan', 'ubsan', 'tsan', 'msan', 'coverage', 'fuzz'],
+    variants: ['release', 'debug', 'asan', 'ubsan', 'tsan', 'msan', 'coverage', 'fuzz', 'test-build', 'test-run'],
 
     // Data paths
     currentPath: 'data/current.json',
@@ -172,7 +172,7 @@ function renderHistoryTable(data) {
         row.appendChild(timeCell);
 
         // Variant cells (only showing subset for table width)
-        const tableVariants = ['release', 'debug', 'asan', 'ubsan', 'tsan', 'coverage'];
+        const tableVariants = ['release', 'debug', 'asan', 'ubsan', 'tsan', 'coverage', 'test-build', 'test-run'];
         for (const variant of tableVariants) {
             const cell = document.createElement('td');
             const status = build.variants?.[variant]?.status || 'unknown';
