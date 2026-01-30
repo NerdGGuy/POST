@@ -1,8 +1,8 @@
 {
   "status": "pass",
-  "version": "0.0.0-5e045d3",
-  "store_path": "/nix/store/27nwp0v4ajwck9vai7h6kl05l10fcx8j-PROJ-ubsan-0.0.0-5e045d3",
-  "log_hash": "27nwp0v4ajwck9vai7h6kl05l10fcx8j",
-  "timestamp": "2026-01-30T03:54:11Z",
-  "rev": "5e045d3765ccf646750bcda4ad2730e357b81c90"
+  "version": "0.0.0-04f1be3",
+  "store_path": "/nix/store/5ws6r6ykkq3k70c5wv0jy83krj253ja7-PROJ-ubsan-0.0.0-04f1be3",
+  "log_hash": "5ws6r6ykkq3k70c5wv0jy83krj253ja7",
+  "timestamp": "2026-01-30T03:59:28Z",
+  "rev": "04f1be3fb421428350962340a2238190c549ad0b"
 }
