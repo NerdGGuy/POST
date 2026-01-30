@@ -1,69 +1,69 @@
 {
-  "updated": "2026-01-30T04:20:15Z",
+  "updated": "2026-01-30T06:31:32Z",
   "variants": {
     "asan": {
       "status": "pass",
-      "version": "0.0.0-92ed52d",
-      "store_path": "/nix/store/xyjn0bdbdb1aafnddc7b7l4garhzslij-PROJ-asan-0.0.0-92ed52d",
-      "log_hash": "xyjn0bdbdb1aafnddc7b7l4garhzslij",
-      "timestamp": "2026-01-30T04:20:15Z",
-      "rev": "92ed52d2b21143b2792499d46433279b6f5c49c2"
+      "version": "0.0.0-f92309e",
+      "store_path": "/nix/store/x8vdvag47xssxisy7q8nmasfmzrhbncq-PROJ-asan-0.0.0-f92309e",
+      "log_hash": "x8vdvag47xssxisy7q8nmasfmzrhbncq",
+      "timestamp": "2026-01-30T06:31:32Z",
+      "rev": "f92309eeb7577523f1c750a73bce1adbb0be935f"
     },
     "coverage": {
       "status": "pass",
-      "version": "0.0.0-92ed52d",
-      "store_path": "/nix/store/28cz9gahf6cb2qkp3f3qd1zpdp1xs22w-PROJ-coverage-0.0.0-92ed52d",
-      "log_hash": "28cz9gahf6cb2qkp3f3qd1zpdp1xs22w",
-      "timestamp": "2026-01-30T04:20:15Z",
-      "rev": "92ed52d2b21143b2792499d46433279b6f5c49c2"
+      "version": "0.0.0-f92309e",
+      "store_path": "/nix/store/6bpsrcgyz0f6ah1ys0kqs7m4l2vz8ziq-PROJ-coverage-0.0.0-f92309e",
+      "log_hash": "6bpsrcgyz0f6ah1ys0kqs7m4l2vz8ziq",
+      "timestamp": "2026-01-30T06:31:32Z",
+      "rev": "f92309eeb7577523f1c750a73bce1adbb0be935f"
     },
     "debug": {
       "status": "pass",
-      "version": "0.0.0-92ed52d",
-      "store_path": "/nix/store/1jybsq29wx7jd2jwh2abq23pvrdy8wff-PROJ-debug-0.0.0-92ed52d",
-      "log_hash": "1jybsq29wx7jd2jwh2abq23pvrdy8wff",
-      "timestamp": "2026-01-30T04:20:15Z",
-      "rev": "92ed52d2b21143b2792499d46433279b6f5c49c2"
+      "version": "0.0.0-f92309e",
+      "store_path": "/nix/store/9q3f17h4j5ynmcgxk6yl0hrlrhn7l2bf-PROJ-debug-0.0.0-f92309e",
+      "log_hash": "9q3f17h4j5ynmcgxk6yl0hrlrhn7l2bf",
+      "timestamp": "2026-01-30T06:31:32Z",
+      "rev": "f92309eeb7577523f1c750a73bce1adbb0be935f"
     },
     "fuzz": {
       "status": "pass",
-      "version": "0.0.0-92ed52d",
-      "store_path": "/nix/store/nxsf7swb79spg0s76932x1rbxhnil5wr-PROJ-fuzz-0.0.0-92ed52d",
-      "log_hash": "nxsf7swb79spg0s76932x1rbxhnil5wr",
-      "timestamp": "2026-01-30T04:20:15Z",
-      "rev": "92ed52d2b21143b2792499d46433279b6f5c49c2"
+      "version": "0.0.0-f92309e",
+      "store_path": "/nix/store/qsh0jffy0pvmqih2qr5vl2sjfbvsjnm0-PROJ-fuzz-0.0.0-f92309e",
+      "log_hash": "qsh0jffy0pvmqih2qr5vl2sjfbvsjnm0",
+      "timestamp": "2026-01-30T06:31:32Z",
+      "rev": "f92309eeb7577523f1c750a73bce1adbb0be935f"
     },
     "msan": {
       "status": "pass",
-      "version": "0.0.0-92ed52d",
-      "store_path": "/nix/store/5zzzyv17vyn9fh0qfhhnmvsa3w6gcb0q-PROJ-msan-0.0.0-92ed52d",
-      "log_hash": "5zzzyv17vyn9fh0qfhhnmvsa3w6gcb0q",
-      "timestamp": "2026-01-30T04:20:15Z",
-      "rev": "92ed52d2b21143b2792499d46433279b6f5c49c2"
+      "version": "0.0.0-f92309e",
+      "store_path": "/nix/store/s5j5jjv7byy31bk88n6jhdrsbmk5qj1j-PROJ-msan-0.0.0-f92309e",
+      "log_hash": "s5j5jjv7byy31bk88n6jhdrsbmk5qj1j",
+      "timestamp": "2026-01-30T06:31:32Z",
+      "rev": "f92309eeb7577523f1c750a73bce1adbb0be935f"
     },
     "release": {
       "status": "pass",
-      "version": "0.0.0-92ed52d",
-      "store_path": "/nix/store/7pzwh0bvnah28fia6iawidw8nl2hksd9-PROJ-release-0.0.0-92ed52d",
-      "log_hash": "7pzwh0bvnah28fia6iawidw8nl2hksd9",
-      "timestamp": "2026-01-30T04:20:15Z",
-      "rev": "92ed52d2b21143b2792499d46433279b6f5c49c2"
+      "version": "0.0.0-f92309e",
+      "store_path": "/nix/store/h4fwbm1i563ghbai98yaqhxjcwjbqyai-PROJ-release-0.0.0-f92309e",
+      "log_hash": "h4fwbm1i563ghbai98yaqhxjcwjbqyai",
+      "timestamp": "2026-01-30T06:31:32Z",
+      "rev": "f92309eeb7577523f1c750a73bce1adbb0be935f"
     },
     "tsan": {
       "status": "pass",
-      "version": "0.0.0-92ed52d",
-      "store_path": "/nix/store/gc0lclfchn2pxbhjlx4kd4k5k5q0y394-PROJ-tsan-0.0.0-92ed52d",
-      "log_hash": "gc0lclfchn2pxbhjlx4kd4k5k5q0y394",
-      "timestamp": "2026-01-30T04:20:15Z",
-      "rev": "92ed52d2b21143b2792499d46433279b6f5c49c2"
+      "version": "0.0.0-f92309e",
+      "store_path": "/nix/store/cdy467dlz385275mwmq40jz38zgbk9gg-PROJ-tsan-0.0.0-f92309e",
+      "log_hash": "cdy467dlz385275mwmq40jz38zgbk9gg",
+      "timestamp": "2026-01-30T06:31:32Z",
+      "rev": "f92309eeb7577523f1c750a73bce1adbb0be935f"
     },
     "ubsan": {
       "status": "pass",
-      "version": "0.0.0-92ed52d",
-      "store_path": "/nix/store/bvxx8skfysjpkpiczmc71myb845qaywi-PROJ-ubsan-0.0.0-92ed52d",
-      "log_hash": "bvxx8skfysjpkpiczmc71myb845qaywi",
-      "timestamp": "2026-01-30T04:20:15Z",
-      "rev": "92ed52d2b21143b2792499d46433279b6f5c49c2"
+      "version": "0.0.0-f92309e",
+      "store_path": "/nix/store/anivisg5k1kxs67k3m0mv4yyk0f1mm3j-PROJ-ubsan-0.0.0-f92309e",
+      "log_hash": "anivisg5k1kxs67k3m0mv4yyk0f1mm3j",
+      "timestamp": "2026-01-30T06:31:32Z",
+      "rev": "f92309eeb7577523f1c750a73bce1adbb0be935f"
     }
   }
 }
