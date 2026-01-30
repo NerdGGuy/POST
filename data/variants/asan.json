@@ -1,8 +1,8 @@
 {
   "status": "pass",
-  "version": "0.0.0-1b311cd",
-  "store_path": "/nix/store/imkrkd99adp59g1f18k6yvq2ci1vrl4q-PROJ-asan-0.0.0-1b311cd",
-  "log_hash": "imkrkd99adp59g1f18k6yvq2ci1vrl4q",
-  "timestamp": "2026-01-30T03:48:47Z",
-  "rev": "1b311cd8552ec231667ab6bb66c9eafe19a18184"
+  "version": "0.0.0-5e045d3",
+  "store_path": "/nix/store/qac0awkzc4h6v6jigfd27mzk8kqv35iv-PROJ-asan-0.0.0-5e045d3",
+  "log_hash": "qac0awkzc4h6v6jigfd27mzk8kqv35iv",
+  "timestamp": "2026-01-30T03:54:11Z",
+  "rev": "5e045d3765ccf646750bcda4ad2730e357b81c90"
 }
