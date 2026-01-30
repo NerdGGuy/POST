@@ -1,8 +1,8 @@
 {
   "status": "pass",
-  "version": "0.0.0-113d6a3",
-  "store_path": "/nix/store/snbvly8n36905154xy2bb1ihyb78dibk-PROJ-fuzz-0.0.0-113d6a3",
-  "log_hash": "snbvly8n36905154xy2bb1ihyb78dibk",
-  "timestamp": "2026-01-30T04:03:20Z",
-  "rev": "113d6a3ec89a4d787f9b75ba6823c6b44ed3d4b4"
+  "version": "0.0.0-92ed52d",
+  "store_path": "/nix/store/nxsf7swb79spg0s76932x1rbxhnil5wr-PROJ-fuzz-0.0.0-92ed52d",
+  "log_hash": "nxsf7swb79spg0s76932x1rbxhnil5wr",
+  "timestamp": "2026-01-30T04:20:15Z",
+  "rev": "92ed52d2b21143b2792499d46433279b6f5c49c2"
 }
