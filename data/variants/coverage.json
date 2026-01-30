@@ -1,8 +1,8 @@
 {
   "status": "pass",
-  "version": "0.0.0-92ed52d",
-  "store_path": "/nix/store/28cz9gahf6cb2qkp3f3qd1zpdp1xs22w-PROJ-coverage-0.0.0-92ed52d",
-  "log_hash": "28cz9gahf6cb2qkp3f3qd1zpdp1xs22w",
-  "timestamp": "2026-01-30T04:20:15Z",
-  "rev": "92ed52d2b21143b2792499d46433279b6f5c49c2"
+  "version": "0.0.0-f92309e",
+  "store_path": "/nix/store/6bpsrcgyz0f6ah1ys0kqs7m4l2vz8ziq-PROJ-coverage-0.0.0-f92309e",
+  "log_hash": "6bpsrcgyz0f6ah1ys0kqs7m4l2vz8ziq",
+  "timestamp": "2026-01-30T06:31:32Z",
+  "rev": "f92309eeb7577523f1c750a73bce1adbb0be935f"
 }
